@@ -1,4 +1,4 @@
-# Hitahara
+# Hitahara(backend)
 A full-stack health-tech application that leverages Optical Character Recognition (OCR) and Natural Language Processing (NLP) to parse semi-structured food ingredient labels. The backend utilizes an optimized fuzzy-matching algorithm to map obscure chemical synonyms directly to primary allergens and chronic disease contraindications.
 
 Project Scope: A multimodal health-tech system combining Document OCR, Fuzzy Matching NLP, and Computer Vision to deliver personalized dietary risk assessments.
